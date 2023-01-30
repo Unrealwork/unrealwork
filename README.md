@@ -1,5 +1,5 @@
 
-## [![Linkedin: shmagrinksy](https://img.shields.io/badge/-Igor%20Shmagirnsky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/unrealwork/)](https://www.linkedin.com/in/unrealwork/)
+## [![Linkedin: shmagrinksy](https://img.shields.io/badge/-Igor%20Shmagirnsky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/unrealwork/)](https://www.linkedin.com/in/shmagrinsky/)
 [![GitHub unrealwork](https://img.shields.io/github/followers/unrealwork?label=follow&style=social)](https://github.com/unrealwork)
 
 
