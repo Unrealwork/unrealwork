@@ -1,5 +1,5 @@
 
-# Igor Shmagrinsky
+### Igor Shmagrinsky
 
 [![Linkedin: shmagrinksy](https://img.shields.io/badge/-Igor%20Shmagirnsky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/unrealwork/)](https://www.linkedin.com/in/unrealwork/)
 [![GitHub unrealwork](https://img.shields.io/github/followers/unrealwork?label=follow&style=social)](https://github.com/unrealwork)
@@ -10,13 +10,13 @@ Former Software Engineer at @axibase. Five years of experience specializing in b
 |---|---|
 |![Igor Shmagirnsky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unrealwork&show_icons=true&count_private=true&hide_border=true&hide_title=true)|[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Unrealwork)](https://leetcode.com/Unrealwork)|
 
-### I am...
+#### I am...
 
-- Backend Developer
+- Backend Develope
 - Cycling wanderings lover
 - Outdoorsy
 
-### 💬 Get in touch
+#### 💬 Get in touch
 
 - [Telegram](https://t.me/shmagrinsky)
 - [LeetCode](https://leetcode.com/Unrealwork)
