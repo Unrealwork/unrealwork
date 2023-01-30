@@ -19,4 +19,4 @@ Former Software Engineer at [@axibase](https://github.com/axibase) Five years of
 
 - [Telegram](https://t.me/shmagrinsky)
 - [LeetCode](https://leetcode.com/Unrealwork)
-- [Linked In](https://www.linkedin.com/in/shmagrinsky/)
+- [LinkedIn](https://www.linkedin.com/in/shmagrinsky/)
