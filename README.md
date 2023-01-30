@@ -1,5 +1,6 @@
 
-## [![Linkedin: shmagrinksy](https://img.shields.io/badge/-Igor%20Shmagirnsky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/unrealwork/)](https://www.linkedin.com/in/unrealwork/) [![GitHub unrealwork](https://img.shields.io/github/followers/unrealwork?label=follow&style=social)](https://github.com/unrealwork)
+## [![Linkedin: shmagrinksy](https://img.shields.io/badge/-Igor%20Shmagirnsky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/unrealwork/)](https://www.linkedin.com/in/unrealwork/)
+[![GitHub unrealwork](https://img.shields.io/github/followers/unrealwork?label=follow&style=social)](https://github.com/unrealwork)
 
 
 Former Software Engineer at @axibase. Five years of experience specializing in back-end development and infrastructure automation in the Java world. A self-motivated and lifelong learner familiar with the modern development of scalable fault-tolerant systems. Interested in devising a better problem-solving method for challenging tasks. Willing to work on event-driven microservice architecture.
