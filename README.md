@@ -7,7 +7,7 @@ Former Software Engineer at [@axibase](https://github.com/axibase) Five years of
 
 | [:octocat:](https://github.com/unrealwork)  |  <img href="https://leetcode.com/Unrealwork" target="_blank"  src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" height="20" width="20"> |
 |---|---|
-|![Igor Shmagirnsky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unrealwork&show_icons=true&count_private=true&hide_border=true&hide_title=true)|[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Unrealwork)](https://leetcode.com/Unrealwork)|
+|![Igor Shmagirnsky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unrealwork&theme=vue&show_icons=true&count_private=true&hide_border=true&hide_title=true)|[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Unrealwork)](https://leetcode.com/Unrealwork)|
 
 ### I am...
 
